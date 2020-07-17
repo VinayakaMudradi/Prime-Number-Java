@@ -3,6 +3,7 @@
                             VINAYAKA MUDRADI
 
 *******************************************************************************/
+
 import java.util.Scanner;
 class PrimeNumber{
     private long number;
